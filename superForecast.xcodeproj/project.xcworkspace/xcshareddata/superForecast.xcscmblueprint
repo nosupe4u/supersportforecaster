@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74B51FD6CECCE66CC6DD2CF845182D7F4F54D2C0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "290A409D4AB5531C7CAA9C0BFF3D60889A41CB98" : 9223372036854775807,
+    "74B51FD6CECCE66CC6DD2CF845182D7F4F54D2C0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16758432-A132-4810-AFF5-16EF8E3F97E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "290A409D4AB5531C7CAA9C0BFF3D60889A41CB98" : "",
+    "74B51FD6CECCE66CC6DD2CF845182D7F4F54D2C0" : "superForecast\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "superForecast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "superForecast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nosupe4u\/supersportforecaster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "290A409D4AB5531C7CAA9C0BFF3D60889A41CB98"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nosupe4u\/supersportforecaster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74B51FD6CECCE66CC6DD2CF845182D7F4F54D2C0"
+    }
+  ]
+}
